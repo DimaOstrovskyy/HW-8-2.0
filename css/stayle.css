@@ -1,0 +1,16 @@
+.text-box h3:first-of-type{
+    color: pink;
+}
+.text-box #greycol {
+    color: gray;
+}
+div p:first-child{
+    color: red;
+}
+ p:nth-child(odd){
+    color: green;
+}
+.text-box .yellow {
+    color: yellow;
+}
+
